@@ -1,0 +1,158 @@
+
+website link:- https://cab23.000webhostapp.com/website1/index.html
+
+---------project section---------
+<div class="project-div1">
+                <div class="project-title">
+                    Taxi Booking (03/2023)
+                </div>
+                <div class="div-function">
+                    <ul>
+                    <li>Technologies used: <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Django, Python, HTML, and CSS.</li>
+                    <li> Description:<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspDeveloped a web application for taxi booking using Django framework. The website included various features such as a Taxi Booking Form, Login Page, Logout functionality, Registration Form, Company details, Refund policy, Feedback Form, and Customer Info. Implemented a "Show Ticket" feature that allowed users to view all entered details along with the fare amount of their booking. Integrated the Gmail API to send registration confirmation emails to users upon successful registration.</li>
+                    </ul>
+                </div>
+                
+            </div>
+             <div class="project-title">
+                    Weather Web Application
+                </div>
+                <div class="div-function">
+                    <ul>
+                    <li>Technologies used: <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp JavaScript, HTML, and CSS.</li>
+                    <li> Description:<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp► Created an intuitive user interface with HTML and CSS, providing a clean and user-friendly experience.
+                    ► Utilized JavaScript to handle user interactions, including location input and data retrieval.
+                    ► Integrated the OpenWeatherMap API to fetch real-time weather data based on user-entered locations.
+                    ► Displayed weather information dynamically, including temperature and weather description.
+                    ► Implemented error handling to provide feedback in case of data retrieval failures.
+                    ► Designed and maintained a visually appealing and responsive layout using CSS.
+                    ► Deployed the application, making it accessible to users on various devices.</li>
+                    </ul>
+                </div>
+                
+            </div>
+
+            <div class="project-title">
+                    Translator Web Application
+                </div>
+                <div class="div-function">
+                    <ul>
+                    <li>Technologies used: <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp JavaScript, HTML, and CSS.</li>
+                    <li> Description:<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp► Designed a user-friendly and responsive interface using HTML and CSS to provide an intuitive experience for users.
+                    ► Leveraged JavaScript to create interactive features, allowing users to input text for translation.
+                    ► Integrated a translation API (e.g., Google Translate API) to provide accurate translations across multiple languages.
+                    ► Enabled users to choose the target language and receive real-time translations.
+                    ► Incorporated error handling to gracefully handle API failures and provide user-friendly error messages.
+                    ► Ensured that the application works seamlessly across various devices and screen sizes.
+                    ► Deployed the web application to make it accessible to users online.</li>
+                    </ul>
+                </div>
+                
+            </div>
+            
+            <div class="project-div2">
+                <div class="project-title">
+                    Bank Management System (01/2023)
+                </div>
+                <div class="div-function">
+                    <ul>
+                    <li>Technologies used: <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  Python 3.11.0.</li>
+                    <li> Description:<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCreated a Python-based application for managing bank accounts. The application facilitated functionalities such as Login, Logout, Deposit Amount, Withdrawal Amount, View Customer Details, and Show Balance. Developed using Python 3.11.0 and utilized appropriate data structures and algorithms to handle account management operations effectively.</li>
+                    </ul>
+                </div>
+                
+            </div>
+
+            <div class="project-div3">
+                <div class="project-title">
+                     Calculator 
+                </div>
+                <div class="div-function">
+                    <ul>
+                    <li>Technologies used: <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  HTML, CSS, and JavaScript.</li>
+                    <li> Description:<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspDeveloped  Developed a calculator web application using HTML, CSS, and JavaScript. The calculator provided basic arithmetic operations and allowed users to perform calculations with ease. Implemented a user-friendly interface with responsive design principles.</li>
+                    </ul>
+                </div>
+                
+            </div>
+
+
+
+
+
+
+-----------------------------------------------about Page------------------------------------------------
+
+
+  <div id="about">
+            <header class="about-header">
+                <h1 class="heading">About MySelf</h1>
+            </header>
+            <section class="about-section">
+                <div class="about-website">
+                    <h1 class="about-heading">Background and Education</h1>
+                    <p class="about-para">&nbsp&nbsp&nbsp&nbsp&nbsp   My journey in the field of technology began in 2015 when I completed my 10th grade.
+                        In 2018, I took admission to pursue Mechanical Engineering at Pravin Patil Engineering College in Bhayandar. Throughout my engineering studies, I gained a comprehensive understanding of mechanical principles and honed my problem-solving skills. In 2021, I successfully completed my Bachelor's degree in Mechanical Engineering.
+                         To broaden my knowledge and explore new horizons, I ventured into the manufacturing industry. From 2021 to 2022, I worked with a manufacturing company, where I gained valuable insights into engineering practices and applied my theoretical knowledge in real-world scenarios.
+                         My combined background in mechanical engineering and web development equips me with a unique perspective and problem-solving abilities. I can leverage my engineering knowledge to build efficient and user-friendly web solutions that seamlessly integrate with various industries and domains.
+                         With a passion for continuous learning, I stay updated with the latest advancements and best practices in the field of web development. I am committed to delivering high-quality solutions that meet clients' requirements and exceed expectations.<br></p>
+                </div>
+
+                <div class="about-website2">
+                    <h1 class="about-heading">About MySelf</h1>
+                    <p class="about-para">&nbsp&nbsp&nbsp&nbsp&nbsp I'm Roshan Tambe, a passionate full stack developer. This website serves as a platform to showcase my skills, experience, and projects in web development.<br>
+
+                        &nbsp&nbsp&nbsp&nbsp&nbsp  this website aims to provide an intuitive user experience that reflects my commitment to delivering seamless web solutions. I have implemented the latest web development standards, ensuring compatibility across multiple devices and browsers.<br>
+                        
+                        &nbsp&nbsp&nbsp&nbsp&nbsp Through this website, I invite you to explore my projects, which highlight my proficiency in front-end development, back-end architecture, and database management. Each project is accompanied by a detailed description, showcasing the technologies used and the challenges overcome.</p>
+                </div>
+                <div class="about-website3">
+                    <h1 class="about-heading">skills</h1>
+                    <p class="about-para">
+
+                        &nbsp&nbsp&nbsp&nbsp&nbsp I am a passionate full stack developer with expertise in HTML, CSS, JavaScript, Python, Django, REST API, and MySQL. With a strong foundation in web development, I am dedicated to creating innovative and functional solutions that deliver exceptional user experiences.<br>
+
+                        &nbsp&nbsp&nbsp&nbsp&nbsp Throughout my journey as a developer, I have cultivated a deep understanding of various technologies and frameworks. From front-end design to back-end development, I possess the skills necessary to bring ideas to life. My focus on clean code, performance optimization, and intuitive interfaces enables me to create web applications that captivate and engage users.</p>
+                </div>
+
+                <div class="about-website4">
+                    <h1 class="about-heading">Work Experience</h1>
+                    <p class="about-para">
+
+                        &nbsp&nbsp&nbsp&nbsp&nbsp 
+                        Proficient in creating responsive and visually appealing web pages using HTML5 and CSS3.
+                        
+                        
+                         Experienced in client-side scripting with JavaScript to add interactivity and dynamic functionality to web applications.
+                        
+                        
+                        Solid understanding of Python programming language and its ecosystem.
+                        Experienced in developing web applications using the Django framework, following the MVC architectural pattern.
+                        
+                        
+                        Strong understanding of RESTful architecture and principles.
+                        Skilled in designing and developing RESTful APIs using Django Rest Framework (DRF).
+                        
+                        
+                        Proficient in working with MySQL database management system.
+                        Skilled in writing complex SQL queries, optimizing database performance, and ensuring data integrity.
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                </div>
+
+            </section>
+            
+        </div>
+
+
+
+
+        <br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><a href="#home" class="go-home">Go to Home</a><br><br><br>
